@@ -1,0 +1,11 @@
+variable "tenancy_ocid" {}
+variable "user_ocid" {}
+variable "fingerprint" {}
+variable "private_key_path" {}
+variable "region" {}
+variable "vcn_cidr_block" {}
+variable "subnet_public_cidr_block" {}
+variable "subnet_private_cidr_block" {}
+variable "availability_domain" {}  
+variable "ssh_public_key_path" {}
+variable "objectstorage_namespace" {}
