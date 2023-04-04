@@ -1,0 +1,2 @@
+# TerraformOCI
+Projeto terraform OCI
